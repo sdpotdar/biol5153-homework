@@ -8,6 +8,7 @@ sdpotdar@uark.edu
 **PhD student** *Integrative Animal Behavior Laboratory* **(August 2018-Present)**  
 University of Arkansas. **Advisor:** Dr. Erica L. Westerman  
  
+
 **Education**   
 ______________________________________________________________________________________
 **TERI University**, Environmental Science and Resource Management. New Delhi, India **(MSc 2016)**  
@@ -17,6 +18,7 @@ Thesis: Activity time budget of Indian cabbage white (*Pieris canidia*) across a
 **(BSc 2014)**  
 Thesis: History of water management in Bangalore; **Advisor**: Dr. B. S. Prabhakar  
  
+  
 **Publications**
 _______________________________________________________________________________________
 **Potdar, S**., Sengupta, A., Chatterjee, S., (*in prep*) Elevation and time of the day affects behaviour of a montane butterfly in the Western Himalayas.  
@@ -24,6 +26,7 @@ ________________________________________________________________________________
 Seshadri, K,S., Krishna, M,B., Balakrishna, S., Kumar, S,M., Prabhakar,B,S., Nitin, R., Kishan, S,B., Vinay, K,S., Gautham, G,S., Narayan, V., **Potdar, S**., Daga, P., Kumar, P,T (2013) Ruining the ecology of Hesaraghatta lake- The role of bird photographers, *Conservation India*.
 http://www.conservationindia.org/wp-content/files_mf/small_Hesaraghatta-Photographers.pdf  
   
+
 **Contributed presentations**  
 _______________________________________________________________________________________
 **Talks:**  
@@ -37,6 +40,7 @@ Student Conference on Conservation Science (SCCS), Bangalore, India
 **Potdar, S**., Sengupta, A., Chatterjee, S. (2018) Activity time budget of Indian cabbage white (*Pieris canidia*) across an elevational gradient in Himachal Pradesh, India.  
 Young Ecologists Talk and Interact (YETI) conference, Vadodara, India  
  
+
 **Teaching**  
 ______________________________________________________________________________________
 **Mt. Carmel College**, Bangalore India  
@@ -47,6 +51,7 @@ Designed and delivered 6 lectures for 600 students on documenting diversity, bio
 **Teaching Assistant: Principles of Biology** (Fall 2018, 2019, Spring 2019)  
 Led ~45 person lab divided into two sections. Taught basics of biology comprising of topics in ecology, evolutionary biology, animal behavior, taxonomy and phylogenetics, molecular biology and scientific writing. Graded weekly laboratory reports and exams.  
  
+
 **Relevant Employment**  
 _____________________________________________________________________________________
 **Project Assistant** (December 2016-June 2018)  
@@ -55,6 +60,7 @@ Biological Sciences (NCBS), Bangalore, India.
 Research Project: Effect of climate warming on insect-pollinated plants.  
 Research Advisors: Dr. Joyshree Chanam and Dr. Mahesh Sankaran  
   
+
 **Additional Education**  
 _____________________________________________________________________________________
 **Chemical Ecology** (March 2018- May 2018)  
@@ -69,6 +75,7 @@ Directors: Dr. Vishwesha Guttal and Dr. Kavita Isvaran
 Gubbi Labs, Tumkur and St. Joseph's College, Bangalore, India  
 Directors: Dr. H.S. Sudhira  and Dr. K.V. Gururaja  
   
+
 **Research Skills**  
 _____________________________________________________________________________________
 **Molecular Biology and Genetics:** RNA extraction   
@@ -83,6 +90,7 @@ ________________________________________________________________________________
   
 **Computational skills:** Data analyses using R studio, map making using QGIS and Arc GIS  
   
+
 **Service**  
 _____________________________________________________________________________________
 **Committee member of Season’s Nature Club** (June 2011- April 2014)  
@@ -92,6 +100,7 @@ Organized guest talks, workshops, movie screenings, field visits and intra colle
 **Outreach:**  
 Participated in outreach activities at Biological gardens of the Ozarks, teaching elementary and middle school students on butterfly and caterpillar ecology and behavior (April and August 2019)  
   
+
 **Professional Affiliations**  
 _____________________________________________________________________________________
 Animal Behavior Society (ABS)  
