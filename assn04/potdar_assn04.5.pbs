@@ -1,0 +1,13 @@
+#!/bin/bash
+
+#PBS -N BLAST
+#PBS -q debug12core
+PBS -j oe
+PBS -o potdar_assn04.5.txt
+PBS -l nodes=1;ppn=1
+PBS -l walltime=00:00:30:00
+
+cd $PBS_O_WORKDIR
+
+module load blast/2.6.0+
+blastn -query nad4L.fasta -db nr 

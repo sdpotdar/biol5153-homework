@@ -1,0 +1,14 @@
+#!/bin/bash
+
+#PBS -N BLAST
+#PBS -q debug12core
+PBS -j oe
+PBS -o BLAST.$PBS_JOBID
+PBS -l nodes=1;ppn=1
+PBS -l walltime=00:00:30:00
+
+cd $PBS_O_WORKDIR
+
+module load blast/2.6.0+
+cat*.fasta | makeblastdb -in /home/sdpotdar/watermelons_files/mt_genomes/mt.fasta -dbtype nucl
+blastn -query nad4L.fasta -db /home/sdpotdar/watermelons_files/mt_genomes/mt.fasta 
